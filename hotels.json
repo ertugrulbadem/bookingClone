@@ -1,0 +1,83 @@
+[
+    {
+      "name": "The Ritz-Carlton, Istanbul",
+      "description": "İstanbul'un en lüks otellerinden biri olan The Ritz-Carlton, şehrin eşsiz manzarasını sunmaktadır. Otelde lüks bir spa, bir kapalı yüzme havuzu ve bir restoran bulunmaktadır.",
+      "imageUrl": "https://cosmos-assets.tatil.com/uploads/4787/4787-1615363972-The-Ritz-Carlton,-Istanbul.jpg",
+      "rating": "8.9",
+      "price": "$1,819",
+      "degree": "Excellent",
+      "reviews": "4,679",
+      "options": "4 nights, 2 adults, 2 children"
+    },
+    {
+      "name": "Four Seasons Hotel Istanbul at the Bosphorus",
+      "description": "Boğaz'ın kıyısında yer alan Four Seasons Hotel Istanbul at the Bosphorus, şehrin en güzel manzaralarından birine sahiptir. Otelde lüks bir spa, bir kapalı yüzme havuzu ve bir restoran bulunmaktadır.",
+      "imageUrl": "https://cosmos-assets.tatil.com/uploads/4787/4787-1615363972-The-Ritz-Carlton,-Istanbul.jpg",
+      "rating": "8.9",
+      "price": "$1,819",
+      "degree": "Excellent",
+      "reviews": "4,679",
+      "options": "4 nights, 2 adults, 2 children"
+    },
+    {
+      "name": "The Peninsula Istanbul",
+      "description": "İstanbul'un tarihi yarımadasında yer alan The Peninsula Istanbul, şehrin eşsiz atmosferini sunmaktadır. Otelde lüks bir spa, bir kapalı yüzme havuzu ve bir restoran bulunmaktadır.",
+      "imageUrl": "https://cosmos-assets.tatil.com/uploads/4787/4787-1615363972-The-Ritz-Carlton,-Istanbul.jpg",
+      "rating": "8.9",
+      "price": "$1,819",
+      "degree": "Excellent",
+      "reviews": "4,679",
+      "options": "4 nights, 2 adults, 2 children"
+    },
+    {
+      "name": "Swissôtel The Bosphorus, Istanbul",
+      "description": "Boğaz'ın kıyısında yer alan Swissôtel The Bosphorus, şehrin en güzel manzaralarından birine sahiptir. Otelde lüks bir spa, bir kapalı yüzme havuzu ve bir restoran bulunmaktadır.",
+      "imageUrl": "https://cosmos-assets.tatil.com/uploads/4787/4787-1615363972-The-Ritz-Carlton,-Istanbul.jpg",
+      "rating": "8.9",
+      "price": "$1,819",
+      "degree": "Excellent",
+      "reviews": "4,679",
+      "options": "4 nights, 2 adults, 2 children"
+    },
+    {
+      "name": "CVK Park Bosphorus Hotel & Convention Center",
+      "description": "Boğaz'ın kıyısında yer alan CVK Park Bosphorus Hotel & Convention Center, şehrin en popüler otellerinden biridir. Otelde lüks bir spa, bir kapalı yüzme havuzu ve bir restoran bulunmaktadır.",
+      "imageUrl": "https://cosmos-assets.tatil.com/uploads/4787/4787-1615363972-The-Ritz-Carlton,-Istanbul.jpg",
+      "rating": "8.9",
+      "price": "$1,819",
+      "degree": "Excellent",
+      "reviews": "4,679",
+      "options": "4 nights, 2 adults, 2 children"
+    },
+    {
+      "name": "Mandarin Oriental, Bosphorus, Istanbul",
+      "description": "Boğaz'ın kıyısında yer alan Mandarin Oriental, Bosphorus, Istanbul, şehrin eşsiz manzarasını sunmaktadır. Otelde lüks bir spa, bir kapalı yüzme havuzu ve bir restoran bulunmaktadır.",
+      "imageUrl": "https://cosmos-assets.tatil.com/uploads/4787/4787-1615363972-The-Ritz-Carlton,-Istanbul.jpg",
+      "rating": "8.9",
+      "price": "$1,819",
+      "degree": "Excellent",
+      "reviews": "4,679",
+      "options": "4 nights, 2 adults, 2 children"
+    },
+    {
+      "name": "The Marmara Pera, Istanbul",
+      "description": "Tarihi yarımadada yer alan The Marmara Pera, şehrin eşsiz atmosferini sunmaktadır. Otelde lüks bir spa, bir kapalı yüzme havuzu ve bir restoran bulunmaktadır.",
+      "imageUrl": "https://cosmos-assets.tatil.com/uploads/4787/4787-1615363972-The-Ritz-Carlton,-Istanbul.jpg",
+      "rating": "8.9",
+      "price": "$1,819",
+      "degree": "Excellent",
+      "reviews": "4,679",
+      "options": "4 nights, 2 adults, 2 children"
+    },
+    {
+      "name": "The Grand Hyatt Istanbul",
+      "description": "İstanbul'un en büyük otellerinden biri olan The Grand Hyatt Istanbul, şehrin en modern otellerinden biridir. Otelde lüks",
+      "imageUrl": "https://cosmos-assets.tatil.com/uploads/4787/4787-1615363972-The-Ritz-Carlton,-Istanbul.jpg",
+      "rating": "8.9",
+      "price": "$1,819",
+      "degree": "Excellent",
+      "reviews": "4,679",
+      "options": "4 nights, 2 adults, 2 children"
+    }
+]
+  
